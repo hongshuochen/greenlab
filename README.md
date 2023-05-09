@@ -10,6 +10,16 @@ Install Green Lab:
 pip install greenlab
 ```
 
+Install dependencies:
+
+```
+pip install -r requirements.txt
+```
+or if you are using conda:
+```
+conda env create -f environment.yml
+```
+
 ## <a name="GettingStarted"></a>Getting Started
 
 
