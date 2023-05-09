@@ -1,5 +1,30 @@
-# Example Package
+# Green Lab
 
-This is a simple example package. You can use
-[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-to write your content.
+## Installation
+
+The code requires `python>=3.8`, as well as `pytorch>=1.7` and `torchvision>=0.8`. Please follow the instructions [here](https://pytorch.org/get-started/locally/) to install both PyTorch and TorchVision dependencies. Installing both PyTorch and TorchVision with CUDA support is strongly recommended.
+
+Install Green Lab:
+
+```
+pip install greenlab
+```
+
+## <a name="GettingStarted"></a>Getting Started
+
+
+
+## Citing Green Lab
+
+If you use Green Lab in your research, please use the following BibTeX entry.
+
+```
+@inproceedings{chen2021defakehop,
+  title={Defakehop: A light-weight high-performance deepfake detector},
+  author={Chen, Hong-Shuo and Rouhsedaghat, Mozhdeh and Ghani, Hamza and Hu, Shuowen and You, Suya and Kuo, C-C Jay},
+  booktitle={2021 IEEE International Conference on Multimedia and Expo (ICME)},
+  pages={1--6},
+  year={2021},
+  organization={IEEE}
+}
+```
