@@ -10,17 +10,21 @@ Install Green Lab:
 pip install greenlab
 ```
 
-or clone the repository locally and install with
-
-```
-git clone git@github.com:facebookresearch/segment-anything.git
-cd segment-anything; pip install -e .
-```
-
-The following optional dependencies are necessary for mask post-processing, saving masks in COCO format, the example notebooks, and exporting the model in ONNX format. `jupyter` is also required to run the example notebooks.
-
-```
-pip install opencv-python pycocotools matplotlib onnxruntime onnx
-```
-
 ## <a name="GettingStarted"></a>Getting Started
+
+
+
+## Citing Green Lab
+
+If you use Green Lab in your research, please use the following BibTeX entry.
+
+```
+@inproceedings{chen2021defakehop,
+  title={Defakehop: A light-weight high-performance deepfake detector},
+  author={Chen, Hong-Shuo and Rouhsedaghat, Mozhdeh and Ghani, Hamza and Hu, Shuowen and You, Suya and Kuo, C-C Jay},
+  booktitle={2021 IEEE International Conference on Multimedia and Expo (ICME)},
+  pages={1--6},
+  year={2021},
+  organization={IEEE}
+}
+```
