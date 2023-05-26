@@ -24,9 +24,8 @@ conda env create -f environment.yml
 
 ## Quick Start
 
-A toy example of using Green Lab to train a model on the CIFAR-10 dataset is provided in [src/cifar.ipynb] (src/cifar.ipynb).
+A toy example of using Green Lab to train a model on the CIFAR-10 dataset is provided in [src/cifar.ipynb](src/cifar.ipynb).
 
-```
 ## Citing Green Lab
 
 If you use Green Lab in your research, please use the following BibTeX entry.
