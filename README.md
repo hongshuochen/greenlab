@@ -20,11 +20,12 @@ or if you are using conda:
 conda env create -f environment.yml
 ```
 
-## <a name="GettingStarted"></a>Getting Started
-
 ## Quick Start
 
 A toy example of using Green Lab to train a model on the CIFAR-10 dataset is provided in [src/cifar.ipynb](src/cifar.ipynb).
+
+<!-- ## <a name="GettingStarted"></a>Getting Started -->
+
 
 ## Citing Green Lab
 
